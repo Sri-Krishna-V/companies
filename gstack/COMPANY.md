@@ -22,3 +22,7 @@ GStack is an engineering company built around Garry Tan's gstack workflow skills
 5. **QA Engineer** tests the shipped feature in a headless browser
 
 The philosophy: planning is not review, review is not shipping, founder taste is not engineering rigor. Each agent is a specialist you summon for the right job.
+
+---
+
+Generated from [gstack](https://github.com/garrytan/gstack/tree/main) with the company-creator skill from [Paperclip](https://github.com/paperclipai/paperclip)
