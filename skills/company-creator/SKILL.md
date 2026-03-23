@@ -270,3 +270,7 @@ git ls-remote https://github.com/owner/repo HEAD
 ```
 
 Do NOT copy external skill content into the package unless the user explicitly asks.
+
+## Tips
+
+- **Try to keep agents 1:1** - if the readme of the source repo says something like "48 agents, 37 workflows" - then you should have 48 agents when you're done. Though when you have a lot of agents, it's a good idea to invent middle management to break them up into teams.
