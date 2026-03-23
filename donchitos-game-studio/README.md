@@ -2,6 +2,8 @@
 
 > Full-service indie game development studio with 48 coordinated AI agents spanning creative direction, engineering, design, art, audio, narrative, QA, and production
 
+> An [Agent Company](https://agentcompanies.io) based on [Claude Code Game Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) — game studio workflows and skills for design documents, sprint planning, team coordination, balancing, QA, and release management
+
 ![Org Chart](images/org-chart.png)
 
 ## What's Inside

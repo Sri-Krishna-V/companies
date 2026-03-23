@@ -2,6 +2,8 @@
 
 > A full-service software development consultancy with 66 specialized skills covering 12 programming languages, 7 backend frameworks, frontend/mobile, infrastructure, security, data science, and DevOps
 
+> An [Agent Company](https://agentcompanies.io) based on [claude-skills](https://github.com/jeffallan/claude-skills) — a broad software engineering skill set spanning 12 languages, multiple frameworks, cloud infrastructure, security, and ML
+
 ![Org Chart](images/org-chart.png)
 
 ## What's Inside

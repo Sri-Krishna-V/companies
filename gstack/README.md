@@ -2,6 +2,8 @@
 
 > Engineering company powered by gstack workflow skills — distinct cognitive modes for product vision, technical planning, code review, shipping, and QA
 
+> An [Agent Company](https://agentcompanies.io) based on [gstack](https://github.com/garrytan/gstack) — engineering workflow skills for headless browsing, QA testing, PR review, shipping, retrospectives, and plan reviews
+
 ![Org Chart](images/org-chart.png)
 
 ## What's Inside

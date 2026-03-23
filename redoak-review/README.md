@@ -2,6 +2,8 @@
 
 > A boutique code quality, design, and security review agency powered by pragmatic, opinionated review workflows
 
+> An [Agent Company](https://agentcompanies.io) based on [claude-code-workflows](https://github.com/OneRedOak/claude-code-workflows) — PR-oriented code, design, and security review workflows with GitHub Actions integration
+
 ![Org Chart](images/org-chart.png)
 
 ## What's Inside

@@ -2,6 +2,8 @@
 
 > A disciplined software development company powered by the Superpowers workflow — brainstorm, plan, build with TDD, review, and ship
 
+> An [Agent Company](https://agentcompanies.io) based on [Superpowers](https://github.com/obra/superpowers) — an opinionated dev process with TDD, debugging, code review, git worktrees, and verification skills
+
 ![Org Chart](images/org-chart.png)
 
 ## What's Inside

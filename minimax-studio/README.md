@@ -2,6 +2,8 @@
 
 > Full-service digital studio that builds apps, creates visual effects, and produces professional documents
 
+> An [Agent Company](https://agentcompanies.io) based on [MiniMax-AI Skills](https://github.com/MiniMax-AI/skills) — development, document production, and media creation skills from MiniMax
+
 ![Org Chart](images/org-chart.png)
 
 ## What's Inside

@@ -2,6 +2,8 @@
 
 > Full-service AI product management consultancy with 65 specialized skills covering discovery, strategy, execution, research, analytics, go-to-market, marketing, and PM career tools
 
+> An [Agent Company](https://agentcompanies.io) based on [pm-skills](https://github.com/phuryn/pm-skills) — product management skills for discovery, strategy, execution, analytics, go-to-market, and career development
+
 ![Org Chart](images/org-chart.png)
 
 ## What's Inside

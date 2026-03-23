@@ -2,6 +2,8 @@
 
 > Autonomous AI research automation through coordinated multi-agent teams that conduct literature surveys, design experiments, run analyses, and synthesize findings
 
+> An [Agent Company](https://agentcompanies.io) based on [ClawTeam](https://github.com/HKUDS/ClawTeam) — a multi-agent orchestration CLI for spawning agents, managing tasks, and coordinating work through mailbox messaging and git worktree isolation
+
 ![Org Chart](images/org-chart.png)
 
 ## What's Inside

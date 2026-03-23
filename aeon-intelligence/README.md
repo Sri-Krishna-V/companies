@@ -2,6 +2,8 @@
 
 > Autonomous AI intelligence company powered by Aeon — runs research, engineering, crypto monitoring, and productivity workflows on GitHub Actions via Claude Code
 
+> An [Agent Company](https://agentcompanies.io) based on [Aeon](https://github.com/aaronjmars/aeon) — an autonomous intelligence stack that runs research, crypto monitoring, engineering, and productivity workflows via GitHub Actions and Claude Code
+
 ![Org Chart](images/org-chart.png)
 
 ## What's Inside

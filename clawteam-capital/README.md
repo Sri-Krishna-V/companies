@@ -2,6 +2,8 @@
 
 > AI-powered investment analysis through specialized multi-agent teams that research securities from multiple angles and consolidate signals into risk-adjusted portfolio decisions
 
+> An [Agent Company](https://agentcompanies.io) based on [ClawTeam](https://github.com/HKUDS/ClawTeam) — a multi-agent orchestration CLI for spawning agents, managing tasks, and coordinating work through mailbox messaging and git worktree isolation
+
 ![Org Chart](images/org-chart.png)
 
 ## What's Inside

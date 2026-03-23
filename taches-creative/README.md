@@ -2,6 +2,8 @@
 
 > A creative strategy and meta-skills agency specializing in thinking frameworks, research methodology, and AI workflow optimization
 
+> An [Agent Company](https://agentcompanies.io) based on [taches-cc-resources](https://github.com/glittercowboy/taches-cc-resources) — Claude Code commands and skills for planning, research methodology, MCP integration, and thinking frameworks
+
 ![Org Chart](images/org-chart.png)
 
 ## What's Inside

@@ -2,6 +2,8 @@
 
 > A complete AI agency with 167 specialized agents across 10 divisions — engineering, design, marketing, product, sales, QA, operations, game development, spatial computing, and specialized operations
 
+> An [Agent Company](https://agentcompanies.io) based on [Agency Agents](https://github.com/msitarzewski/agency-agents) — a large library of specialized agent role definitions for a multi-division AI agency
+
 ![Org Chart](images/org-chart.png)
 
 ## What's Inside

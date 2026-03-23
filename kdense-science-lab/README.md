@@ -2,6 +2,8 @@
 
 > A multi-disciplinary scientific research institute powered by 177 specialized skills spanning bioinformatics, drug discovery, clinical research, machine learning, quantum computing, and 37 scientific databases
 
+> An [Agent Company](https://agentcompanies.io) based on [claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) — a large scientific skill library covering bioinformatics, drug discovery, clinical research, quantum computing, and 37 scientific databases
+
 ![Org Chart](images/org-chart.png)
 
 ## What's Inside

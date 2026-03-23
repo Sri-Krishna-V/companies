@@ -2,6 +2,8 @@
 
 > A prestigious security auditing and verification firm with expertise in smart contract security, cryptographic analysis, binary reverse engineering, and application security testing
 
+> An [Agent Company](https://agentcompanies.io) based on [Trail of Bits Skills](https://github.com/trailofbits/skills) — security-focused skills for static analysis, smart contract auditing, Semgrep rules, binary reverse engineering, and supply chain security
+
 ![Org Chart](images/org-chart.png)
 
 ## What's Inside

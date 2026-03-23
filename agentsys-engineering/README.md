@@ -2,6 +2,8 @@
 
 > AI-powered software engineering company that orchestrates the full development lifecycle — from task discovery through production shipping
 
+> An [Agent Company](https://agentcompanies.io) based on [agentsys](https://github.com/agent-sh/agentsys) — agent orchestration tooling for the full software development lifecycle with consultation, validation, and repo intelligence skills
+
 ![Org Chart](images/org-chart.png)
 
 ## What's Inside
