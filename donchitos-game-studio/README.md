@@ -10,7 +10,7 @@
 
 | Content | Count |
 |---------|-------|
-| Agents | 46 |
+| Agents | 48 |
 | Skills | 37 |
 
 ### Agents
@@ -32,6 +32,7 @@
 | Godot GDExtension Specialist | Engineer | godot-specialist |
 | Godot GDScript Specialist | Engineer | godot-specialist |
 | Godot Shader Specialist | Engineer | godot-specialist |
+| Godot Specialist | Engineer | lead-programmer |
 | Lead Programmer | Engineer | technical-director |
 | Level Designer | Engineer | game-designer |
 | Live Ops Designer | Engineer | producer |
@@ -59,6 +60,7 @@
 | Unity DOTS Specialist | Engineer | unity-specialist |
 | Unity Shader Specialist | Engineer | unity-specialist |
 | Unity Specialist | Engineer | lead-programmer |
+| Unity UI Specialist | Engineer | unity-specialist |
 | Unreal Specialist | Engineer | lead-programmer |
 | UX Designer | Engineer | art-director |
 | World Builder | Engineer | narrative-director |

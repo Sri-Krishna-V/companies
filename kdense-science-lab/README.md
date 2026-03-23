@@ -17,60 +17,60 @@
 
 | Agent | Role | Reports To |
 |-------|------|------------|
-| Dr. Elena Vasquez | Chief Executive Officer | --- |
-| Dr. Marcus Chen | Chief Science Officer | ceo |
-| Dr. Amara Okafor | Director of Bioinformatics & Genomics | chief-science-officer |
-| Dr. Kenji Watanabe | Genomics Analyst | bio-genomics-lead |
-| Dr. Sofia Lindgren | Single-Cell Omics Specialist | bio-genomics-lead |
-| Dr. Ravi Mehta | Evolutionary Genomics Specialist | bio-genomics-lead |
-| Dr. Lena Dubois | Sequencing Data Analyst | bio-genomics-lead |
-| Dr. Tomas Reyes | Regulatory Genomics Analyst | bio-genomics-lead |
-| Dr. Priya Sharma | Director of Drug Discovery | chief-science-officer |
-| Dr. Erik Johansson | Cheminformatics Scientist | drug-discovery-lead |
-| Dr. Yuki Tanaka | Molecular Docking Specialist | drug-discovery-lead |
-| Dr. Carlos Mendez | Drug Screening Analyst | drug-discovery-lead |
-| Dr. Hannah Fischer | Director of Clinical Research | chief-science-officer |
-| Dr. Aisha Patel | Clinical Data Scientist | clinical-research-lead |
-| Dr. James O'Brien | Precision Medicine Analyst | clinical-research-lead |
-| Dr. Mei-Lin Zhou | Clinical Trials Specialist | clinical-research-lead |
-| Dr. Sven Eriksson | Neuroinformatics Analyst | clinical-research-lead |
-| Dr. Grace Kim | Histopathology Analyst | clinical-research-lead |
-| Dr. Alexander Petrov | Director of Machine Learning | chief-science-officer |
-| Dr. Fatima Al-Rashid | Deep Learning Engineer | ml-lead |
-| Dr. Nathan Brooks | Statistical Modeler | ml-lead |
-| Dr. Ingrid Novak | Optimization Scientist | ml-lead |
-| Dr. David Okonkwo | Reinforcement Learning Engineer | ml-lead |
-| Dr. Hana Suzuki | Forecasting Analyst | ml-lead |
-| Dr. Nikolai Volkov | Director of Physical Sciences | chief-science-officer |
-| Dr. Clara Fontaine | Quantum Computing Scientist | physical-sciences-lead |
-| Dr. Rajesh Kumar | Materials Scientist | physical-sciences-lead |
-| Dr. Olivia Hartmann | Computational Physicist | physical-sciences-lead |
-| Dr. Samuel Adeyemi | Biochemistry Specialist | physical-sciences-lead |
-| Dr. Lin Wei | Director of Scientific Databases | chief-science-officer |
-| Dr. Anya Kozlova | Genomics Database Specialist | databases-lead |
-| Dr. Thomas Brennan | Proteomics Database Specialist | databases-lead |
-| Dr. Yara Hassan | Chemistry Database Specialist | databases-lead |
-| Dr. Henrik Larsen | Biomedical Database Specialist | databases-lead |
-| Dr. Isabelle Moreau | Literature Database Specialist | databases-lead |
-| Dr. Kwame Asante | Regulatory & Patent Database Specialist | databases-lead |
-| Dr. Rosa Martinez | Director of Data Analysis & Visualization | chief-science-officer |
-| Dr. Leo Tancredi | Visualization Specialist | data-viz-lead |
-| Dr. Petra Johansen | Statistical Analyst | data-viz-lead |
-| Dr. Omar Farouk | Geospatial Data Analyst | data-viz-lead |
-| Dr. Victoria Chang | Director of Scientific Communication | chief-science-officer |
-| Dr. Julian Archer | Manuscript Writer | sci-comm-lead |
-| Dr. Naomi Takahashi | Presentation Designer | sci-comm-lead |
-| Dr. Andre Dupont | Document Production Specialist | sci-comm-lead |
-| Dr. Simone Weber | Research Intelligence Analyst | sci-comm-lead |
-| Dr. Paolo Ricci | Market Research Analyst | sci-comm-lead |
-| Dr. Catherine Moreau | Director of Laboratory Operations | chief-science-officer |
-| Dr. Takeshi Yamamoto | Lab Automation Engineer | lab-ops-lead |
-| Dr. Elise Bergstrom | Lab Informatics Specialist | lab-ops-lead |
-| Dr. Michael Torres | Director of Research Methodology | chief-science-officer |
-| Dr. Zara Nwosu | Critical Analysis Specialist | research-methods-lead |
-| Dr. Lucas Bergmann | Hypothesis Engineer | research-methods-lead |
-| Dr. Sarah Nakamura | Director of Financial Research | chief-science-officer |
-| Dr. Liam O'Connor | Quantitative Financial Analyst | financial-research-lead |
+| Dr. Amara Okafor | Engineer | chief-science-officer |
+| Dr. Samuel Adeyemi | Engineer | physical-sciences-lead |
+| Dr. Henrik Larsen | Engineer | databases-lead |
+| Dr. Elena Vasquez | CEO | — |
+| Dr. Erik Johansson | Engineer | drug-discovery-lead |
+| Dr. Yara Hassan | Engineer | databases-lead |
+| Dr. Marcus Chen | Engineer | ceo |
+| Dr. Aisha Patel | Engineer | clinical-research-lead |
+| Dr. Hannah Fischer | Engineer | chief-science-officer |
+| Dr. Mei-Lin Zhou | Engineer | clinical-research-lead |
+| Dr. Olivia Hartmann | Engineer | physical-sciences-lead |
+| Dr. Zara Nwosu | Engineer | research-methods-lead |
+| Dr. Rosa Martinez | Engineer | chief-science-officer |
+| Dr. Lin Wei | Engineer | chief-science-officer |
+| Dr. Fatima Al-Rashid | Engineer | ml-lead |
+| Dr. Andre Dupont | Engineer | sci-comm-lead |
+| Dr. Priya Sharma | Engineer | chief-science-officer |
+| Dr. Carlos Mendez | Engineer | drug-discovery-lead |
+| Dr. Sarah Nakamura | Engineer | chief-science-officer |
+| Dr. Hana Suzuki | Engineer | ml-lead |
+| Dr. Kenji Watanabe | Engineer | bio-genomics-lead |
+| Dr. Anya Kozlova | Engineer | databases-lead |
+| Dr. Omar Farouk | Engineer | data-viz-lead |
+| Dr. Grace Kim | Engineer | clinical-research-lead |
+| Dr. Lucas Bergmann | Engineer | research-methods-lead |
+| Dr. Takeshi Yamamoto | Engineer | lab-ops-lead |
+| Dr. Elise Bergstrom | Engineer | lab-ops-lead |
+| Dr. Catherine Moreau | Engineer | chief-science-officer |
+| Dr. Isabelle Moreau | Engineer | databases-lead |
+| Dr. Julian Archer | Engineer | sci-comm-lead |
+| Dr. Paolo Ricci | Engineer | sci-comm-lead |
+| Dr. Rajesh Kumar | Engineer | physical-sciences-lead |
+| Dr. Alexander Petrov | Engineer | chief-science-officer |
+| Dr. Yuki Tanaka | Engineer | drug-discovery-lead |
+| Dr. Sven Eriksson | Engineer | clinical-research-lead |
+| Dr. Ingrid Novak | Engineer | ml-lead |
+| Dr. Ravi Mehta | Engineer | bio-genomics-lead |
+| Dr. Nikolai Volkov | Engineer | chief-science-officer |
+| Dr. James O'Brien | Engineer | clinical-research-lead |
+| Dr. Naomi Takahashi | Engineer | sci-comm-lead |
+| Dr. Thomas Brennan | Engineer | databases-lead |
+| Dr. Liam O'Connor | Engineer | financial-research-lead |
+| Dr. Clara Fontaine | Engineer | physical-sciences-lead |
+| Dr. Kwame Asante | Engineer | databases-lead |
+| Dr. Tomas Reyes | Engineer | bio-genomics-lead |
+| Dr. Simone Weber | Engineer | sci-comm-lead |
+| Dr. Michael Torres | Engineer | chief-science-officer |
+| Dr. David Okonkwo | Engineer | ml-lead |
+| Dr. Victoria Chang | Engineer | chief-science-officer |
+| Dr. Lena Dubois | Engineer | bio-genomics-lead |
+| Dr. Sofia Lindgren | Engineer | bio-genomics-lead |
+| Dr. Petra Johansen | Engineer | data-viz-lead |
+| Dr. Nathan Brooks | Engineer | ml-lead |
+| Dr. Leo Tancredi | Engineer | data-viz-lead |
 
 ### Skills
 
