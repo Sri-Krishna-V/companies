@@ -1,0 +1,60 @@
+schema: paperclip/v1
+agents:
+  ceo:
+    adapter:
+      type: claude_local
+      config:
+        model: claude-opus-4-6
+        dangerouslySkipPermissions: true
+  cmo:
+    adapter:
+      type: claude_local
+      config:
+        model: claude-opus-4-6
+        dangerouslySkipPermissions: true
+  cso:
+    adapter:
+      type: claude_local
+      config:
+        model: claude-opus-4-6
+        dangerouslySkipPermissions: true
+  research-analyst:
+    adapter:
+      type: claude_local
+      config:
+        model: claude-sonnet-4-6
+        dangerouslySkipPermissions: true
+  content-strategist:
+    adapter:
+      type: claude_local
+      config:
+        model: claude-sonnet-4-6
+        dangerouslySkipPermissions: true
+  community-manager:
+    adapter:
+      type: claude_local
+      config:
+        model: claude-sonnet-4-6
+        dangerouslySkipPermissions: true
+    heartbeat:
+      intervalSec: 1800
+      maxConcurrentRuns: 1
+  paid-media-strategist:
+    adapter:
+      type: claude_local
+      config:
+        model: claude-sonnet-4-6
+        dangerouslySkipPermissions: true
+  sdr:
+    adapter:
+      type: claude_local
+      config:
+        model: claude-sonnet-4-6
+        dangerouslySkipPermissions: true
+    heartbeat:
+      intervalSec: 1800
+      maxConcurrentRuns: 1
+
+secrets:
+  GITHUB_TOKEN: "paste your github token here"
+  GITHUB_REPO: "Sri-Krishna-V-6944/conseal-marketing"
